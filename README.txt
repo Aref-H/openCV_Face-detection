@@ -1,7 +1,8 @@
-<h1>openCV Face detection C++</h1>
+/*
+* project :    openCV Face detection C++
 * Developer :  AREF HEYDARI
 * Date :       03/11/2025
-
+*/
 
 Detecting face using haarcascade. 
 
