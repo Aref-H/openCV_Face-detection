@@ -9,5 +9,5 @@ Detecting human face using haarcascade.
 Note : Watch the provided video to see the project performance.
 
 <p align="center">
-  <img src="Code_performance.gif" alt="Code performance">
+  <img src="Code_performance.mp4" alt="Code performance">
 </p>
