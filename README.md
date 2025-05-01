@@ -7,3 +7,7 @@
 Detecting human face using haarcascade.
   
 Note : Watch the provided video to see the project performance.
+
+<p align="center">
+  <img src="media/demo.gif" alt="Demo GIF" width="800">
+</p>
